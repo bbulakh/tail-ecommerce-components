@@ -1,1 +1,1 @@
-# tail-ui-ecommerce
+# Tailwind CSS eCommerce components
